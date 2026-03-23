@@ -1,2 +1,8 @@
-# hire-baselabs
-Base Labs is a talent agency that helps you find the best talent for your team!
+# Base Labs
+
+**The talent agency to build a great team**
+
+Headhunting & staffing for companies that move fast.
+
+---
+Find out more at **[baselabs.mx](https://www.baselabs.mx)**
